@@ -1,3 +1,5 @@
+import { ADD_ITEM, REMOVE_ITEM } from '../actions/index';
+
 const initialState = {
     additionalPrice: 0,
     car: {
