@@ -8,6 +8,7 @@ import 'bulma/css/bulma.css';
 import './styles.scss';
 
 
+
 // create store
 const store = createStore(reducer);
 

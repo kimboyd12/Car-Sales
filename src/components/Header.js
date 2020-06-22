@@ -20,5 +20,5 @@ const mapStateToProps = state => {
 }
 
 export default connect(
-  mapStateToProps)(Header);
+  mapStateToProps, {})(Header);
 
